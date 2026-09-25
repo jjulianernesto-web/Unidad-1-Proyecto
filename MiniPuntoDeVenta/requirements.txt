@@ -1,0 +1,3 @@
+# Mini POS – requirements.txt
+# Python stdlib only (tkinter, sqlite3, hashlib, csv, pathlib)
+# No external dependencies required.
